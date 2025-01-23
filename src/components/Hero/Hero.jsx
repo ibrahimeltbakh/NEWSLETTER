@@ -3,6 +3,7 @@ import Card1 from "../cards/Card1/Card1";
 import Card2 from "../cards/card2/Card2";
 import Card3 from "../cards/card3(trending)/Card3";
 
+
 const Hero = ({ news }) => {
   return (
     <div
