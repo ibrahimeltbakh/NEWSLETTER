@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: #F3F2EA;
+}
+.container{
+    width: 1040px;
+    max-width: 1040px;
+    margin: auto;
+}
+P{
+    font-size: 14px;
+}

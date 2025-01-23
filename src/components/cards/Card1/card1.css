@@ -1,0 +1,19 @@
+.card1MainDiv {
+  position: relative;
+  color: white;
+  img {
+    max-width: 100%;
+  }
+  .data {
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    .time {
+      display: flex;
+      gap: 30px;
+      span{
+        font-size: 14px;
+      }
+    }
+  }
+}
