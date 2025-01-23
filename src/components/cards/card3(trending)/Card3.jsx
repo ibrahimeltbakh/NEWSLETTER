@@ -1,4 +1,4 @@
-import "./Card3.css";
+import "./card3.css";
 const Card3 = (props) => {
   return (
     <div className="card3MainDiv">
